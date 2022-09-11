@@ -1,10 +1,9 @@
-Repositori Ini Berisi Pengalaman Belajarku Di Dicoding.
+Repositori Ini Berisi Pengalaman Belajar Saya:.
 ==
-11 September 2022.  
-*Pada Tanggal Tersebut di Program Belajar Dicoding disini Saya Belajar tentang:
- - Dasar DevOps
- - Dasar Google Cloud  
- - Dasar Git dan Github 
+*Terdapat Beberapa Penyelesaian Sertifikat Pembelajaran:.  
+ - Dasar DevOps via Dicoding
+ - Dasar Google Cloud  via Dicoding
+ - Dasar Git dan Github via Dicoding
   
 *Catatan:  
 Terimakasih Dicoding Atas Pelatihannya.
