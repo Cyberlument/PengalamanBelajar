@@ -6,5 +6,5 @@ Repositori Ini Berisi Pengalaman Belajar Saya:.
  - Dasar Git dan Github via Dicoding
   
 *Catatan:  
-Terimakasih Dicoding Atas Pelatihannya.
+File Sertifikat Bisa Dilihat di "Tags".
   
