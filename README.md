@@ -7,3 +7,6 @@ Pada Tanggal Tersebut di Program Belajar Dicoding disini Saya Belajar tentang:<b
   *Dasar Google Cloud <br /> 
   *Dasar Git dan Github <br />
   
+*Catatan:  
+Terimakasih Dicoding Atas Pelatihannya.
+  
